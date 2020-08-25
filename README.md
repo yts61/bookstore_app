@@ -1,1 +1,3 @@
-# bookstore_app-README
+To run the app, 
+python frontend.py
+
